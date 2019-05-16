@@ -5,7 +5,7 @@
 // GitHub repository: https://github.com/michaelcheng429/17-sublime-text-tips
 
 
-// Preface) Get project started
+###Get project started
 ===============================
 
 
