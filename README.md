@@ -2,7 +2,7 @@
 ==========================
 
 // 17 Sublime Text tips and shortcuts to save you tons of time
-// GitHub repository: https://github.com/michaelcheng429/17-sublime-text-tips
+// GitHub repository: https://github.com/surendarsrk/sublime_text3_shortcuts/edit/master/README.md
 
 
 ###Get project started
