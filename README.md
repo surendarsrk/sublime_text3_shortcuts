@@ -10,7 +10,9 @@
 
 
 | // 1) CMD+CLICK (CTRL+CLICK) --> Multi-cursor |
+
 | // 2) CMD+D (CTRL+D) --> Select next occurrence |
+
 | // 3) CMD+K (CTRL+K) --> Skip occurrence |
 
 var something = 1;
