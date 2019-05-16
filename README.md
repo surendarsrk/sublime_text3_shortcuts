@@ -1,10 +1,12 @@
-|# sublime_text3_shortcuts|
+###sublime_text3_shortcuts
+==========================
 
 // 17 Sublime Text tips and shortcuts to save you tons of time
 // GitHub repository: https://github.com/michaelcheng429/17-sublime-text-tips
 
 
 // Preface) Get project started
+===============================
 
 
 // 1) CMD+CLICK (CTRL+CLICK) --> Multi-cursor
